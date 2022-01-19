@@ -1,0 +1,10 @@
+#f = open("mukund.txt")
+#print(f.read())
+#f.close()
+
+f = open("mukund.txt",'r')
+print(f.read(2))
+print(f.tell())
+f.seek(8)
+print(f.tell())
+print(f.read())
