@@ -1,3 +1,0 @@
-# Overloading
-# Overriding
-#polymorphism
