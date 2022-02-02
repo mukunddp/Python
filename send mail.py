@@ -3,7 +3,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 msg = '''Hello <b>Mukund</b>'''
 sender_address = 'mukundparve98@gmail.com'
-sender_pass = 'Mukundaaipapa'
+sender_pass = '**********'
 receiver_address = 'mukundparve@gmail.com'
 #Setup the MIME
 message = MIMEMultipart()
